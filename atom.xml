@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>伊齐小站</title>
+  <icon>https://www.gravatar.com/avatar/5d8c851d98c8e31173208e49669eb8e5</icon>
+  <subtitle>伊齐小站</subtitle>
   <link href="http://wuyq54517.github.io/atom.xml" rel="self"/>
   
   <link href="http://wuyq54517.github.io/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>Wu Yikky</name>
-    
+    <email>wuyq54517@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
