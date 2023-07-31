@@ -1,2 +1,4 @@
+http://example.com/2023/07/31/introduction-myself/
 http://example.com/2023/07/31/hello-world/
 http://example.com/
+http://example.com/tags/myself/
