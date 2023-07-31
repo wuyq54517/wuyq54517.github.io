@@ -6,7 +6,7 @@
   <link href="http://wuyq54517.github.io/atom.xml" rel="self"/>
   
   <link href="http://wuyq54517.github.io/"/>
-  <updated>2023-07-31T14:42:14.510Z</updated>
+  <updated>2023-07-31T14:49:37.243Z</updated>
   <id>http://wuyq54517.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://wuyq54517.github.io/2023/07/31/introduction-myself/"/>
     <id>http://wuyq54517.github.io/2023/07/31/introduction-myself/</id>
     <published>2023-07-31T13:45:30.000Z</published>
-    <updated>2023-07-31T14:42:14.510Z</updated>
+    <updated>2023-07-31T14:49:37.243Z</updated>
     
     <content type="html"><![CDATA[<h2 id="哈哈哈哈哈"><a href="#哈哈哈哈哈" class="headerlink" title="哈哈哈哈哈"></a>哈哈哈哈哈</h2><p>我的名字叫做，Wu Yikky。</p>]]></content>
     
@@ -30,8 +30,14 @@
     
     
     
+    <category term="myself" scheme="http://wuyq54517.github.io/categories/myself/"/>
+    
+    <category term="myself2" scheme="http://wuyq54517.github.io/categories/myself/myself2/"/>
+    
     
     <category term="myself" scheme="http://wuyq54517.github.io/tags/myself/"/>
+    
+    <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
     
   </entry>
   
