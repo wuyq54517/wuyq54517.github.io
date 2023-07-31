@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://wuyq54517.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://wuyq54517.github.io/"/>
   <updated>2023-07-31T13:46:24.532Z</updated>
-  <id>http://example.com/</id>
+  <id>http://wuyq54517.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wu Yikky</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>introduction myself</title>
-    <link href="http://example.com/2023/07/31/introduction-myself/"/>
-    <id>http://example.com/2023/07/31/introduction-myself/</id>
+    <link href="http://wuyq54517.github.io/2023/07/31/introduction-myself/"/>
+    <id>http://wuyq54517.github.io/2023/07/31/introduction-myself/</id>
     <published>2023-07-31T13:45:30.000Z</published>
     <updated>2023-07-31T13:46:24.532Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="myself" scheme="http://example.com/tags/myself/"/>
+    <category term="myself" scheme="http://wuyq54517.github.io/tags/myself/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/07/31/hello-world/"/>
-    <id>http://example.com/2023/07/31/hello-world/</id>
+    <link href="http://wuyq54517.github.io/2023/07/31/hello-world/"/>
+    <id>http://wuyq54517.github.io/2023/07/31/hello-world/</id>
     <published>2023-07-31T13:06:15.611Z</published>
     <updated>2023-07-31T13:05:27.782Z</updated>
     
