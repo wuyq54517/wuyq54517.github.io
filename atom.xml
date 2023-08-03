@@ -3,11 +3,11 @@
   <title>伊齐小站</title>
   <icon>https://www.gravatar.com/avatar/5d8c851d98c8e31173208e49669eb8e5</icon>
   <subtitle>伊齐小站</subtitle>
-  <link href="http://wuyq54517.github.io/atom.xml" rel="self"/>
+  <link href="http://5177.me/atom.xml" rel="self"/>
   
-  <link href="http://wuyq54517.github.io/"/>
-  <updated>2023-07-31T15:30:30.330Z</updated>
-  <id>http://wuyq54517.github.io/</id>
+  <link href="http://5177.me/"/>
+  <updated>2023-08-03T05:59:01.927Z</updated>
+  <id>http://5177.me/</id>
   
   <author>
     <name>Wu Yikky</name>
@@ -18,33 +18,8 @@
   
   <entry>
     <title>introduction myself</title>
-    <link href="http://wuyq54517.github.io/2023/07/31/introduction-myself/"/>
-    <id>http://wuyq54517.github.io/2023/07/31/introduction-myself/</id>
-    <published>2023-07-31T13:45:30.000Z</published>
-    <updated>2023-07-31T15:30:30.330Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="哈哈哈哈哈"><a href="#哈哈哈哈哈" class="headerlink" title="哈哈哈哈哈"></a>哈哈哈哈哈</h2><p>我的名字叫做，Wu Yikky。</p><p><img src="https://wuyiqi.obs.cn-north-1.myhuaweicloud.com/tuchuang/202307312330563.jpg" alt="1678080547"></p>]]></content>
-    
-    
-    <summary type="html">自我介绍</summary>
-    
-    
-    
-    <category term="myself" scheme="http://wuyq54517.github.io/categories/myself/"/>
-    
-    <category term="myself2" scheme="http://wuyq54517.github.io/categories/myself/myself2/"/>
-    
-    
-    <category term="myself" scheme="http://wuyq54517.github.io/tags/myself/"/>
-    
-    <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>introduction myself</title>
-    <link href="http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/"/>
-    <id>http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/</id>
+    <link href="http://5177.me/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/"/>
+    <id>http://5177.me/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/</id>
     <published>2023-07-31T13:45:30.000Z</published>
     <updated>2023-08-03T05:59:01.927Z</updated>
     
@@ -55,19 +30,44 @@
     
     
     
-    <category term="ServiceNow" scheme="http://wuyq54517.github.io/categories/ServiceNow/"/>
+    <category term="ServiceNow" scheme="http://5177.me/categories/ServiceNow/"/>
     
     
-    <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
+    <category term="ServieNow" scheme="http://5177.me/tags/ServieNow/"/>
     
-    <category term="ServieNow" scheme="http://wuyq54517.github.io/tags/ServieNow/"/>
+    <category term="myself2" scheme="http://5177.me/tags/myself2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>introduction myself</title>
+    <link href="http://5177.me/2023/07/31/introduction-myself/"/>
+    <id>http://5177.me/2023/07/31/introduction-myself/</id>
+    <published>2023-07-31T13:45:30.000Z</published>
+    <updated>2023-07-31T15:30:30.330Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="哈哈哈哈哈"><a href="#哈哈哈哈哈" class="headerlink" title="哈哈哈哈哈"></a>哈哈哈哈哈</h2><p>我的名字叫做，Wu Yikky。</p><p><img src="https://wuyiqi.obs.cn-north-1.myhuaweicloud.com/tuchuang/202307312330563.jpg" alt="1678080547"></p>]]></content>
+    
+    
+    <summary type="html">自我介绍</summary>
+    
+    
+    
+    <category term="myself" scheme="http://5177.me/categories/myself/"/>
+    
+    <category term="myself2" scheme="http://5177.me/categories/myself/myself2/"/>
+    
+    
+    <category term="myself2" scheme="http://5177.me/tags/myself2/"/>
+    
+    <category term="myself" scheme="http://5177.me/tags/myself/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://wuyq54517.github.io/2023/07/31/hello-world/"/>
-    <id>http://wuyq54517.github.io/2023/07/31/hello-world/</id>
+    <link href="http://5177.me/2023/07/31/hello-world/"/>
+    <id>http://5177.me/2023/07/31/hello-world/</id>
     <published>2023-07-31T13:06:15.611Z</published>
     <updated>2023-07-31T13:05:27.782Z</updated>
     
