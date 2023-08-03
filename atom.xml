@@ -33,9 +33,9 @@
     <category term="ServiceNow" scheme="https://wuyq54517.github.io/categories/ServiceNow/"/>
     
     
-    <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
-    
     <category term="ServieNow" scheme="https://wuyq54517.github.io/tags/ServieNow/"/>
+    
+    <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
     
   </entry>
   
@@ -46,7 +46,7 @@
     <published>2023-08-03T12:40:11.000Z</published>
     <updated>2023-08-03T12:56:40.672Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rsync -avz -e &quot;D:\software\cygwin64\bin\ssh.exe -i &#x27;C:/Users/lenovo/.ssh/id_rsa&#x27;&quot; --progress /cygdrive/D/系统默认/qycache/作业/github/wuyq54517.github.io/wuyq54517.github.io/source/ root@ahk.123417.xyz:/root/docker/hexo/blog/source/</span><br></pre></td></tr></table></figure><blockquote><p>rsync -avz -e “D:\software\cygwin64\bin\ssh.exe” –progress &#x2F;cygdrive&#x2F;D&#x2F;系统默认&#x2F;qycache&#x2F;作业&#x2F;github&#x2F;wuyq54517.github.io&#x2F;wuyq54517.github.io&#x2F;source&#x2F;<br><a href="mailto:&#114;&#x6f;&#111;&#116;&#x40;&#97;&#x68;&#107;&#x2e;&#49;&#50;&#x33;&#52;&#x31;&#x37;&#x2e;&#x78;&#121;&#x7a;">&#114;&#x6f;&#111;&#116;&#x40;&#97;&#x68;&#107;&#x2e;&#49;&#50;&#x33;&#52;&#x31;&#x37;&#x2e;&#x78;&#121;&#x7a;</a>:&#x2F;root&#x2F;docker&#x2F;hexo&#x2F;blog&#x2F;source&#x2F;</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rsync -avz -e &quot;D:\software\cygwin64\bin\ssh.exe -i &#x27;C:/Users/lenovo/.ssh/id_rsa&#x27;&quot; --progress /cygdrive/D/系统默认/qycache/作业/github/wuyq54517.github.io/wuyq54517.github.io/source/ root@ahk.123417.xyz:/root/docker/hexo/blog/source/</span><br></pre></td></tr></table></figure><blockquote><p>rsync -avz -e “D:\software\cygwin64\bin\ssh.exe” –progress &#x2F;cygdrive&#x2F;D&#x2F;系统默认&#x2F;qycache&#x2F;作业&#x2F;github&#x2F;wuyq54517.github.io&#x2F;wuyq54517.github.io&#x2F;source&#x2F;<br><a href="mailto:&#x72;&#111;&#x6f;&#116;&#64;&#x61;&#104;&#107;&#x2e;&#49;&#50;&#51;&#x34;&#x31;&#55;&#46;&#x78;&#121;&#x7a;">&#x72;&#111;&#x6f;&#116;&#64;&#x61;&#104;&#107;&#x2e;&#49;&#50;&#51;&#x34;&#x31;&#55;&#46;&#x78;&#121;&#x7a;</a>:&#x2F;root&#x2F;docker&#x2F;hexo&#x2F;blog&#x2F;source&#x2F;</p></blockquote>]]></content>
     
     
     <summary type="html">windows和linux同步数据</summary>
@@ -79,9 +79,9 @@
     <category term="myself2" scheme="https://wuyq54517.github.io/categories/myself/myself2/"/>
     
     
-    <category term="myself" scheme="https://wuyq54517.github.io/tags/myself/"/>
-    
     <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
+    
+    <category term="myself" scheme="https://wuyq54517.github.io/tags/myself/"/>
     
   </entry>
   
