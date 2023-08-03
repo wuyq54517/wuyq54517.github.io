@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wuyq54517.github.io/2023/07/31/introduction-myself/</loc>
+    
+    <lastmod>2023-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wuyq54517.github.io/2023/08/03/ServiceNow-%E7%A8%BF%E4%BB%B6/</loc>
     
     <lastmod>2023-08-03</lastmod>
@@ -11,9 +20,9 @@
   </url>
   
   <url>
-    <loc>https://wuyq54517.github.io/2023/07/31/introduction-myself/</loc>
+    <loc>https://wuyq54517.github.io/2023/08/03/hello-world/</loc>
     
-    <lastmod>2023-07-31</lastmod>
+    <lastmod>2023-08-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://wuyq54517.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wuyq54517.github.io/2023/08/03/hello-world/</loc>
     
     <lastmod>2023-07-31</lastmod>
     
