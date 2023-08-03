@@ -33,29 +33,30 @@
     <category term="ServiceNow" scheme="https://wuyq54517.github.io/categories/ServiceNow/"/>
     
     
-    <category term="ServieNow" scheme="https://wuyq54517.github.io/tags/ServieNow/"/>
-    
     <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
+    
+    <category term="ServieNow" scheme="https://wuyq54517.github.io/tags/ServieNow/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://wuyq54517.github.io/2023/08/03/hello-world/"/>
-    <id>https://wuyq54517.github.io/2023/08/03/hello-world/</id>
-    <published>2023-08-03T06:38:48.432Z</published>
-    <updated>2023-08-03T06:59:59.896Z</updated>
+    <title>windows和linux同步数据</title>
+    <link href="https://wuyq54517.github.io/2023/08/03/windows%E5%92%8Clinux%E5%90%8C%E6%AD%A5%E6%95%B0%E6%8D%AE/"/>
+    <id>https://wuyq54517.github.io/2023/08/03/windows%E5%92%8Clinux%E5%90%8C%E6%AD%A5%E6%95%B0%E6%8D%AE/</id>
+    <published>2023-08-03T12:40:11.000Z</published>
+    <updated>2023-08-03T12:56:40.672Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rsync -avz -e &quot;D:\software\cygwin64\bin\ssh.exe -i &#x27;C:/Users/lenovo/.ssh/id_rsa&#x27;&quot; --progress /cygdrive/D/系统默认/qycache/作业/github/wuyq54517.github.io/wuyq54517.github.io/source/ root@ahk.123417.xyz:/root/docker/hexo/blog/source/</span><br></pre></td></tr></table></figure><blockquote><p>rsync -avz -e “D:\software\cygwin64\bin\ssh.exe” –progress &#x2F;cygdrive&#x2F;D&#x2F;系统默认&#x2F;qycache&#x2F;作业&#x2F;github&#x2F;wuyq54517.github.io&#x2F;wuyq54517.github.io&#x2F;source&#x2F;<br><a href="mailto:&#114;&#x6f;&#111;&#116;&#x40;&#97;&#x68;&#107;&#x2e;&#49;&#50;&#x33;&#52;&#x31;&#x37;&#x2e;&#x78;&#121;&#x7a;">&#114;&#x6f;&#111;&#116;&#x40;&#97;&#x68;&#107;&#x2e;&#49;&#50;&#x33;&#52;&#x31;&#x37;&#x2e;&#x78;&#121;&#x7a;</a>:&#x2F;root&#x2F;docker&#x2F;hexo&#x2F;blog&#x2F;source&#x2F;</p></blockquote>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">windows和linux同步数据</summary>
     
     
     
+    <category term="linux" scheme="https://wuyq54517.github.io/categories/linux/"/>
+    
+    
+    <category term="linux" scheme="https://wuyq54517.github.io/tags/linux/"/>
     
   </entry>
   
@@ -78,9 +79,9 @@
     <category term="myself2" scheme="https://wuyq54517.github.io/categories/myself/myself2/"/>
     
     
-    <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
-    
     <category term="myself" scheme="https://wuyq54517.github.io/tags/myself/"/>
+    
+    <category term="myself2" scheme="https://wuyq54517.github.io/tags/myself2/"/>
     
   </entry>
   

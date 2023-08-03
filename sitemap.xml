@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wuyq54517.github.io/about/index.html</loc>
+    
+    <lastmod>2023-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuyq54517.github.io/link/index.html</loc>
+    
+    <lastmod>2023-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuyq54517.github.io/2023/08/03/windows%E5%92%8Clinux%E5%90%8C%E6%AD%A5%E6%95%B0%E6%8D%AE/</loc>
+    
+    <lastmod>2023-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wuyq54517.github.io/2023/08/03/ServiceNow-%E7%A8%BF%E4%BB%B6/</loc>
     
     <lastmod>2023-08-03</lastmod>
@@ -14,24 +41,6 @@
     <loc>https://wuyq54517.github.io/2023/07/31/introduction-myself/</loc>
     
     <lastmod>2023-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wuyq54517.github.io/2023/08/03/hello-world/</loc>
-    
-    <lastmod>2023-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wuyq54517.github.io/link/index.html</loc>
-    
-    <lastmod>2023-07-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,7 +74,7 @@
 
   
   <url>
-    <loc>https://wuyq54517.github.io/tags/ServieNow/</loc>
+    <loc>https://wuyq54517.github.io/tags/myself/</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,13 +88,27 @@
   </url>
   
   <url>
-    <loc>https://wuyq54517.github.io/tags/myself/</loc>
+    <loc>https://wuyq54517.github.io/tags/ServieNow/</loc>
+    <lastmod>2023-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wuyq54517.github.io/tags/linux/</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://wuyq54517.github.io/categories/myself/</loc>
+    <lastmod>2023-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://wuyq54517.github.io/categories/ServiceNow/</loc>
@@ -95,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://wuyq54517.github.io/categories/myself/</loc>
+    <loc>https://wuyq54517.github.io/categories/linux/</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
