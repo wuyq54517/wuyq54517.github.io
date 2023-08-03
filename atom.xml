@@ -6,7 +6,7 @@
   <link href="http://wuyq54517.github.io/atom.xml" rel="self"/>
   
   <link href="http://wuyq54517.github.io/"/>
-  <updated>2023-08-03T05:27:52.652Z</updated>
+  <updated>2023-07-31T15:30:30.330Z</updated>
   <id>http://wuyq54517.github.io/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>introduction myself</title>
-    <link href="http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/"/>
-    <id>http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/</id>
-    <published>2023-07-31T13:45:30.000Z</published>
-    <updated>2023-08-03T05:27:52.652Z</updated>
-    
-    <content type="html"><![CDATA[<p>以下内容是ServiceNow Scripted Rest Rersources的创建和使用postman进行请求，以与车辆相关的信息为例，核心是先在Servicenow上建立五个Scripted REST APIs，分别代表五个功能，再使用postman对上述API进行请求并获得响应体。</p><p>这是在Servicenow平台上的五个API的详情：</p><p>首先是Create Vehicles，用于添加一条或多条车辆信息，其HTTP method为POST，相对路径为“&#x2F;vehicles”。脚本代码主要通过从请求体中获取建立的车辆信息并依托Servicenow建立一个GlideRecord类型的对象，来执行初始化和数据导入，实现插入后返回车辆的全部信息。</p><p>这是通过postman对上述建立的API进行请求，请求体包括所建立的某一辆汽车的全部信息（在此包括车辆识别号码、车辆生产厂商、车辆识别型号、车辆生产日期、车辆所处城市、车辆所处国家），请求后收到的响应体是每辆成功建立车辆的车辆识别号码vin。</p><p>接着是Delete Vehicles，用于删除某辆车的全部车辆信息，其HTTP method为DELETE，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码主要通过从请求体中获取删除的目的车辆的主键车辆识别号码vin并依托Servicenow建立一个GlideRecord类型的对象，来执行车辆查询和数据删除，成功删除后返回车辆的全部信息和成功删除的信息“Vehicle deleted.”。</p><p>这是通过postman对上述建立的API进行请求，URL中包括的是欲删除的目的车辆的车辆识别号码，请求后收到的响应体是成功删除的车辆的全部信息和“Vehicle deleted.”。</p><p>然后是Get Vehicle，用于通过输入主键查询某一车辆的全部信息，其HTTP method为GET，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码主要通过从请求体中获取查询的目的车辆的主键车辆识别号码vin并依托Servicenow建立一个GlideRecord类型的对象，来执行车辆查询，成功查询后返回被查询车辆的全部信息（除了输入的查询条件vin）。</p><p>这是通过postman对上述建立的API进行请求，URL中包括的是欲查询的目的车辆的车辆识别号码，请求后收到的响应体是成功查询的车辆的全部信息。</p><p>之后是Get Vehicles，用于查询所有满足此条件车辆的全部信息，其HTTP method为GET，相对路径为“&#x2F;vehicle”。脚本代码主要通过从请求体中获取查询的目的条件并存储，再依托Servicenow建立一个GlideRecord类型的对象，来按照上述查询条件查询所有满足条件的车辆，成功查询后返回所有被查询车辆的全部信息。</p><p>这是通过postman对上述建立的API进行请求，URL中包括的是欲查询的一类车辆信息的某个键特征，请求后收到的响应体是所有满足条件的车辆的全部信息。</p><p>最后是Update Vehicle，通过输入某一车辆信息需要更新的部分信息来实现数据更新，其HTTP method为PATCH，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码主要通过从请求体中获取查询的目的车辆的主键车辆识别号码vin和欲更新的键及其值，并依托Servicenow建立一个GlideRecord类型的对象，依次查询是否有满足上述vin的车辆，如果有则对此车辆信息进行更新，成功更新信息后返回被更新车辆更新后的全部信息。</p><p>这是通过postman对上述建立的API进行请求，URL中包括的是欲更新的目的车辆的车辆识别号码，请求体中是车辆的欲更新的键及其值，请求后收到的响应体是被更新车辆更新后的全部信息。</p>]]></content>
-    
-    
-    <summary type="html">ServiceNow</summary>
-    
-    
-    
-    <category term="ServiceNow" scheme="http://wuyq54517.github.io/categories/ServiceNow/"/>
-    
-    
-    <category term="ServieNow" scheme="http://wuyq54517.github.io/tags/ServieNow/"/>
-    
-    <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
-    
-  </entry>
   
   <entry>
     <title>introduction myself</title>
@@ -58,9 +35,32 @@
     <category term="myself2" scheme="http://wuyq54517.github.io/categories/myself/myself2/"/>
     
     
+    <category term="myself" scheme="http://wuyq54517.github.io/tags/myself/"/>
+    
     <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
     
-    <category term="myself" scheme="http://wuyq54517.github.io/tags/myself/"/>
+  </entry>
+  
+  <entry>
+    <title>introduction myself</title>
+    <link href="http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/"/>
+    <id>http://wuyq54517.github.io/2023/07/31/ServiceNow-%E7%A8%BF%E4%BB%B6/</id>
+    <published>2023-07-31T13:45:30.000Z</published>
+    <updated>2023-08-03T05:59:01.927Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ServiceNow-稿件"><a href="#ServiceNow-稿件" class="headerlink" title="ServiceNow 稿件"></a>ServiceNow 稿件</h1><p>以下内容是ServiceNow Scripted Rest Rersources的创建和使用postman进行请求，以与车辆相关的信息为例，核心是先在Servicenow上建立五个API，分别代表五个功能，再使用postman对上述API进行请求并获得响应体。</p><h2 id="Create-Vehicles"><a href="#Create-Vehicles" class="headerlink" title="Create Vehicles"></a>Create Vehicles</h2><p>Create Vehicles，用于添加一条或多条车辆信息，其HTTP method为POST，相对路径为“&#x2F;vehicles”。脚本代码主要通过从请求体中获取车辆信息，并利用Servicenow提供的API,建立一个GlideRecord类型的对象，来执行初始化和数据导入，最后返回车辆的全部信息。</p><p>然后利用postman进行测试，请求体包括一辆汽车的全部信息，请求后收到的响应体是每辆车vin。</p><h2 id="Delete-Vehicles"><a href="#Delete-Vehicles" class="headerlink" title="Delete Vehicles"></a>Delete Vehicles</h2><p>Delete Vehicles，用于删除某辆车的全部车辆信息，其HTTP method为DELETE，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码，通过从url中获取车辆识别号码vin，并利用Servicenow提供的API,建立一个GlideRecord类型的对象，来执行车辆查询和数据删除，成功删除后返回删除车辆的全部信息”。</p><p>然后利用postman进行测试，URL中包括的是车辆识别号码，请求后收到的响应体是成功删除的车辆的全部信息和还有“Vehicle deleted.”。</p><h2 id="Get-Vehicle"><a href="#Get-Vehicle" class="headerlink" title="Get Vehicle"></a>Get Vehicle</h2><p>Get Vehicle，用于查询某一车辆的全部信息，其HTTP method为GET，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码，通过从url中获取车辆识别号码vin，并利用Servicenow提供的API,建立一个GlideRecord类型的对象，来执行车辆查询，成功查询后返回车辆的全部信息。</p><p>然后利用postman进行测试，URL中包括的车辆的vin，请求后收到的响应体是车辆的全部信息。</p><h2 id="Get-Vehicles"><a href="#Get-Vehicles" class="headerlink" title="Get Vehicles"></a>Get Vehicles</h2><p>Get Vehicles，用于查询所有满足此条件车辆的全部信息，其HTTP method为GET，相对路径为“&#x2F;vehicle”。脚本代码通过从url中获取查询的目的条件，并利用Servicenow提供的API,建立一个GlideRecord类型的对象，来按照上述查询条件，查询所有满足条件的车辆，成功查询后返回被查询车辆的全部信息。</p><p>然后利用postman进行测试，URL中包括的是欲查询的一类车辆信息的某个键特征，请求后收到的响应体是所有满足条件的车辆的全部信息。</p><h2 id="Update-Vehicle"><a href="#Update-Vehicle" class="headerlink" title="Update Vehicle"></a>Update Vehicle</h2><p>Update Vehicle，通过输入某一车辆vin，和需要更新的部分信息，来实现数据更新，其HTTP method为PATCH，相对路径为“&#x2F;vehicle&#x2F;{vin}”。脚本代码，通过从请求体中获取汽车的vin和要更新数据，并利用Servicenow提供的API,建立一个GlideRecord类型的对象，依次查询是否有满足上述vin的车辆，如果有则对此车辆信息进行更新，成功更新后返回被更新车辆的全部信息。</p><p>然后利用postman进行测试，URL中包括的是车辆的vin，请求体中是车辆的一些信息，收到的响应体是车辆的全部信息。</p>]]></content>
+    
+    
+    <summary type="html">ServiceNow</summary>
+    
+    
+    
+    <category term="ServiceNow" scheme="http://wuyq54517.github.io/categories/ServiceNow/"/>
+    
+    
+    <category term="myself2" scheme="http://wuyq54517.github.io/tags/myself2/"/>
+    
+    <category term="ServieNow" scheme="http://wuyq54517.github.io/tags/ServieNow/"/>
     
   </entry>
   

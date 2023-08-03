@@ -5,9 +5,9 @@ http://wuyq54517.github.io/categories/index.html
 http://wuyq54517.github.io/tags/index.html
 http://wuyq54517.github.io/2023/07/31/hello-world/
 http://wuyq54517.github.io/
-http://wuyq54517.github.io/tags/ServieNow/
-http://wuyq54517.github.io/tags/myself2/
 http://wuyq54517.github.io/tags/myself/
-http://wuyq54517.github.io/categories/ServiceNow/
+http://wuyq54517.github.io/tags/myself2/
+http://wuyq54517.github.io/tags/ServieNow/
 http://wuyq54517.github.io/categories/myself/
+http://wuyq54517.github.io/categories/ServiceNow/
 http://wuyq54517.github.io/categories/myself/myself2/
