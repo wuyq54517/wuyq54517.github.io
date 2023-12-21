@@ -1,3 +1,5 @@
+https://wuyq54517.github.io/2023/12/21/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
+https://wuyq54517.github.io/2023/12/21/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/
 https://wuyq54517.github.io/about/index.html
 https://wuyq54517.github.io/link/index.html
 https://wuyq54517.github.io/2023/08/03/windows%E5%92%8Clinux%E5%90%8C%E6%AD%A5%E6%95%B0%E6%8D%AE/
@@ -10,7 +12,12 @@ https://wuyq54517.github.io/tags/ServieNow/
 https://wuyq54517.github.io/tags/myself2/
 https://wuyq54517.github.io/tags/linux/
 https://wuyq54517.github.io/tags/myself/
+https://wuyq54517.github.io/tags/java/
+https://wuyq54517.github.io/tags/springboot/
+https://wuyq54517.github.io/tags/vue/
 https://wuyq54517.github.io/categories/ServiceNow/
 https://wuyq54517.github.io/categories/linux/
 https://wuyq54517.github.io/categories/myself/
 https://wuyq54517.github.io/categories/myself/myself2/
+https://wuyq54517.github.io/categories/java/
+https://wuyq54517.github.io/categories/java/springboot/
