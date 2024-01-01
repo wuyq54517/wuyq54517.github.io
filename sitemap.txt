@@ -16,9 +16,11 @@ https://wuyq54517.github.io/tags/springboot/
 https://wuyq54517.github.io/tags/vue/
 https://wuyq54517.github.io/tags/hexo/
 https://wuyq54517.github.io/tags/rsync/
+https://wuyq54517.github.io/tags/%E5%B7%A5%E5%85%B7/
 https://wuyq54517.github.io/categories/ServiceNow/
 https://wuyq54517.github.io/categories/myself/
 https://wuyq54517.github.io/categories/java/
 https://wuyq54517.github.io/categories/java/springboot/
 https://wuyq54517.github.io/categories/hexo/
 https://wuyq54517.github.io/categories/rsync/
+https://wuyq54517.github.io/categories/%E5%B7%A5%E5%85%B7/
